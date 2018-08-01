@@ -1,0 +1,2 @@
+# korean-rnn-tensorflow
+gomugomu
